@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MenuOptionsExampleActivity!</string>
+    <string name="app_name">MenuOptionsExample</string>
+    <string name="close_opt">Close</string>
+    <string name="set_text_opt">Set Text</string>
+
+</resources>
