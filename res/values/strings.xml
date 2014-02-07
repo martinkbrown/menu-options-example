@@ -5,5 +5,6 @@
     <string name="app_name">MenuOptionsExample</string>
     <string name="close_opt">Close</string>
     <string name="set_text_opt">Set Text</string>
+    <string name="prompt">Press the Options Menu</string>
 
 </resources>
